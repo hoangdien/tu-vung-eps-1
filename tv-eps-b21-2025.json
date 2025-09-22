@@ -1,0 +1,362 @@
+[
+    {
+        "korean": " 병원",
+        "vietnamese": " Bệnh viện",
+        "audio": "tv-eps-b21-2025-1.mp3"
+    },
+    {
+        "korean": " 접수를 하다",
+        "vietnamese": " Đăng ký",
+        "audio": "tv-eps-b21-2025-2.mp3"
+    },
+    {
+        "korean": " 기다리다",
+        "vietnamese": " Chờ đợi",
+        "audio": "tv-eps-b21-2025-3.mp3"
+    },
+    {
+        "korean": " 체온을 재다",
+        "vietnamese": " Đo nhiệt độ",
+        "audio": "tv-eps-b21-2025-4.mp3"
+    },
+    {
+        "korean": " 진료를 하다",
+        "vietnamese": " Điều trị",
+        "audio": "tv-eps-b21-2025-5.mp3"
+    },
+    {
+        "korean": " 치료를 받다",
+        "vietnamese": " Nhận điều trị",
+        "audio": "tv-eps-b21-2025-6.mp3"
+    },
+    {
+        "korean": " 엑스레이를 찍다",
+        "vietnamese": " Chụp X - Quang",
+        "audio": "tv-eps-b21-2025-7.mp3"
+    },
+    {
+        "korean": " 주사를 놓다",
+        "vietnamese": " Tiêm",
+        "audio": "tv-eps-b21-2025-8.mp3"
+    },
+    {
+        "korean": " 주사를 맞다",
+        "vietnamese": " Phải tiêm",
+        "audio": "tv-eps-b21-2025-9.mp3"
+    },
+    {
+        "korean": " 수술을 하다",
+        "vietnamese": " Phẫu thuật",
+        "audio": "tv-eps-b21-2025-10.mp3"
+    },
+    {
+        "korean": " 수술을 받다",
+        "vietnamese": " Nhận phẫu thuật",
+        "audio": "tv-eps-b21-2025-11.mp3"
+    },
+    {
+        "korean": " 처방을 하다",
+        "vietnamese": " Kê đơn",
+        "audio": "tv-eps-b21-2025-12.mp3"
+    },
+    {
+        "korean": " 처방을 받다",
+        "vietnamese": " Được kê đơn",
+        "audio": "tv-eps-b21-2025-13.mp3"
+    },
+    {
+        "korean": " 약",
+        "vietnamese": " Thuốc",
+        "audio": "tv-eps-b21-2025-14.mp3"
+    },
+    {
+        "korean": " 신분증",
+        "vietnamese": " Căn cước công dân",
+        "audio": "tv-eps-b21-2025-15.mp3"
+    },
+    {
+        "korean": " 처방전",
+        "vietnamese": " Đơn thuốc",
+        "audio": "tv-eps-b21-2025-16.mp3"
+    },
+    {
+        "korean": " 저희",
+        "vietnamese": " Chúng tôi",
+        "audio": "tv-eps-b21-2025-17.mp3"
+    },
+    {
+        "korean": " 처음",
+        "vietnamese": " Lần đầu",
+        "audio": "tv-eps-b21-2025-18.mp3"
+    },
+    {
+        "korean": " 전화번호",
+        "vietnamese": " Số điện thoại",
+        "audio": "tv-eps-b21-2025-19.mp3"
+    },
+    {
+        "korean": " 보호자",
+        "vietnamese": " Người giám hộ",
+        "audio": "tv-eps-b21-2025-20.mp3"
+    },
+    {
+        "korean": " 진료실",
+        "vietnamese": " Phòng điều trị",
+        "audio": "tv-eps-b21-2025-21.mp3"
+    },
+    {
+        "korean": " 부르다",
+        "vietnamese": " Gọi, hát, no",
+        "audio": "tv-eps-b21-2025-22.mp3"
+    },
+    {
+        "korean": " 신체 및 증상",
+        "vietnamese": " Cơ thể và triệu chứng",
+        "audio": "tv-eps-b21-2025-23.mp3"
+    },
+    {
+        "korean": " 머리",
+        "vietnamese": " Đầu",
+        "audio": "tv-eps-b21-2025-24.mp3"
+    },
+    {
+        "korean": " 귀",
+        "vietnamese": " Tai",
+        "audio": "tv-eps-b21-2025-25.mp3"
+    },
+    {
+        "korean": " 눈",
+        "vietnamese": " Mắt",
+        "audio": "tv-eps-b21-2025-26.mp3"
+    },
+    {
+        "korean": " 얼굴",
+        "vietnamese": " Khuôn mặt",
+        "audio": "tv-eps-b21-2025-27.mp3"
+    },
+    {
+        "korean": " 코",
+        "vietnamese": " Mũi",
+        "audio": "tv-eps-b21-2025-28.mp3"
+    },
+    {
+        "korean": " 이",
+        "vietnamese": " Răng",
+        "audio": "tv-eps-b21-2025-29.mp3"
+    },
+    {
+        "korean": " 입",
+        "vietnamese": " Miệng",
+        "audio": "tv-eps-b21-2025-30.mp3"
+    },
+    {
+        "korean": " 어깨",
+        "vietnamese": " Vai",
+        "audio": "tv-eps-b21-2025-31.mp3"
+    },
+    {
+        "korean": " 가슴",
+        "vietnamese": " Ngực",
+        "audio": "tv-eps-b21-2025-32.mp3"
+    },
+    {
+        "korean": " 팔",
+        "vietnamese": " Cánh tay",
+        "audio": "tv-eps-b21-2025-33.mp3"
+    },
+    {
+        "korean": " 허리",
+        "vietnamese": " Eo, thất lưng",
+        "audio": "tv-eps-b21-2025-34.mp3"
+    },
+    {
+        "korean": " 몸",
+        "vietnamese": " Cơ thể",
+        "audio": "tv-eps-b21-2025-35.mp3"
+    },
+    {
+        "korean": " 손목",
+        "vietnamese": " Cổ tay",
+        "audio": "tv-eps-b21-2025-36.mp3"
+    },
+    {
+        "korean": " 배",
+        "vietnamese": " Bụng",
+        "audio": "tv-eps-b21-2025-37.mp3"
+    },
+    {
+        "korean": " 손가락",
+        "vietnamese": " Ngón tay",
+        "audio": "tv-eps-b21-2025-38.mp3"
+    },
+    {
+        "korean": " 다리",
+        "vietnamese": " Chân",
+        "audio": "tv-eps-b21-2025-39.mp3"
+    },
+    {
+        "korean": " 무릎",
+        "vietnamese": " Đầu gối",
+        "audio": "tv-eps-b21-2025-40.mp3"
+    },
+    {
+        "korean": " 발목",
+        "vietnamese": " Cổ chân",
+        "audio": "tv-eps-b21-2025-41.mp3"
+    },
+    {
+        "korean": " 발",
+        "vietnamese": " Bàn chân",
+        "audio": "tv-eps-b21-2025-42.mp3"
+    },
+    {
+        "korean": " 감기에 걸리다",
+        "vietnamese": " Cảm cúm",
+        "audio": "tv-eps-b21-2025-43.mp3"
+    },
+    {
+        "korean": " 머리가 아프다",
+        "vietnamese": " Đau đầu",
+        "audio": "tv-eps-b21-2025-44.mp3"
+    },
+    {
+        "korean": " 배가 아프다",
+        "vietnamese": " Đau bụng",
+        "audio": "tv-eps-b21-2025-45.mp3"
+    },
+    {
+        "korean": " 다리를 다치다",
+        "vietnamese": " Bị thương ở chân",
+        "audio": "tv-eps-b21-2025-46.mp3"
+    },
+    {
+        "korean": " 눈병이 나다",
+        "vietnamese": " Đau mắt",
+        "audio": "tv-eps-b21-2025-47.mp3"
+    },
+    {
+        "korean": " 환자",
+        "vietnamese": " Bệnh nhân",
+        "audio": "tv-eps-b21-2025-48.mp3"
+    },
+    {
+        "korean": " 운전하다",
+        "vietnamese": " Lái xe",
+        "audio": "tv-eps-b21-2025-49.mp3"
+    },
+    {
+        "korean": " 차갑다",
+        "vietnamese": " Lạnh ( đồ ăn) (2)",
+        "audio": "tv-eps-b21-2025-50.mp3"
+    },
+    {
+        "korean": " 차다",
+        "vietnamese": " Lạnh ( đồ ăn) (1)",
+        "audio": "tv-eps-b21-2025-51.mp3"
+    },
+    {
+        "korean": " 뜨겁다",
+        "vietnamese": " nóng ( đồ ăn)",
+        "audio": "tv-eps-b21-2025-52.mp3"
+    },
+    {
+        "korean": " 신발",
+        "vietnamese": " Giày",
+        "audio": "tv-eps-b21-2025-53.mp3"
+    },
+    {
+        "korean": " 보이다",
+        "vietnamese": " Cho xem, cho thấy",
+        "audio": "tv-eps-b21-2025-54.mp3"
+    },
+    {
+        "korean": " 잠시",
+        "vietnamese": " Tạm thời",
+        "audio": "tv-eps-b21-2025-55.mp3"
+    },
+    {
+        "korean": " 드리다",
+        "vietnamese": " Cho",
+        "audio": "tv-eps-b21-2025-56.mp3"
+    },
+    {
+        "korean": " 드시다",
+        "vietnamese": " Ăn, uống",
+        "audio": "tv-eps-b21-2025-57.mp3"
+    },
+    {
+        "korean": " 말하다",
+        "vietnamese": " Nói",
+        "audio": "tv-eps-b21-2025-58.mp3"
+    },
+    {
+        "korean": " 걷다",
+        "vietnamese": " Đi bộ",
+        "audio": "tv-eps-b21-2025-59.mp3"
+    },
+    {
+        "korean": " 푹 쉬세요",
+        "vietnamese": " Hãy nghỉ ngơi đầy đủ",
+        "audio": "tv-eps-b21-2025-60.mp3"
+    },
+    {
+        "korean": " 밑줄을 치다",
+        "vietnamese": " Gạch dưới",
+        "audio": "tv-eps-b21-2025-61.mp3"
+    },
+    {
+        "korean": " 부분",
+        "vietnamese": " Bộ phận, phần",
+        "audio": "tv-eps-b21-2025-62.mp3"
+    },
+    {
+        "korean": " 의료기관",
+        "vietnamese": " Cơ sở y tế",
+        "audio": "tv-eps-b21-2025-63.mp3"
+    },
+    {
+        "korean": " 의래",
+        "vietnamese": " Ngoại trú",
+        "audio": "tv-eps-b21-2025-64.mp3"
+    },
+    {
+        "korean": " 동네",
+        "vietnamese": " Làng xóm",
+        "audio": "tv-eps-b21-2025-65.mp3"
+    },
+    {
+        "korean": " 의원",
+        "vietnamese": " Phòng khám tư nhân",
+        "audio": "tv-eps-b21-2025-66.mp3"
+    },
+    {
+        "korean": " 보건소",
+        "vietnamese": " Trạm xá, trạm y tế cộng đồng",
+        "audio": "tv-eps-b21-2025-67.mp3"
+    },
+    {
+        "korean": " 병상",
+        "vietnamese": " Giường bệnh",
+        "audio": "tv-eps-b21-2025-68.mp3"
+    },
+    {
+        "korean": " 수",
+        "vietnamese": " Số",
+        "audio": "tv-eps-b21-2025-69.mp3"
+    },
+    {
+        "korean": " 색깔",
+        "vietnamese": " Màu sắc",
+        "audio": "tv-eps-b21-2025-70.mp3"
+    },
+    {
+        "korean": " 빨개요",
+        "vietnamese": " Đỏ",
+        "audio": "tv-eps-b21-2025-71.mp3"
+    },
+    {
+        "korean": " 눈물이 나다",
+        "vietnamese": " Chảy nước mắt",
+        "audio": "tv-eps-b21-2025-72.mp3"
+    }
+]
