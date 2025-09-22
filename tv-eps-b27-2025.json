@@ -1,0 +1,377 @@
+[
+    {
+        "korean": " 어린이날한국의 기념닐",
+        "vietnamese": " Ngày kỷ niệm của Hàn Quốc",
+        "audio": "tv-eps-b27-2025-1.mp3"
+    },
+    {
+        "korean": " 삼일절",
+        "vietnamese": " Ngày kỷ niệm phong trào độc lập",
+        "audio": "tv-eps-b27-2025-2.mp3"
+    },
+    {
+        "korean": " 광복절",
+        "vietnamese": " Ngày Quang Phục, quốc khánh",
+        "audio": "tv-eps-b27-2025-3.mp3"
+    },
+    {
+        "korean": " 근로자의 날",
+        "vietnamese": " Ngày quốc tế lao động",
+        "audio": "tv-eps-b27-2025-4.mp3"
+    },
+    {
+        "korean": " 어린이 날",
+        "vietnamese": " Ngày thiếu nhi",
+        "audio": "tv-eps-b27-2025-5.mp3"
+    },
+    {
+        "korean": " 개천절",
+        "vietnamese": " Ngày thành lập đất nước",
+        "audio": "tv-eps-b27-2025-6.mp3"
+    },
+    {
+        "korean": " 한글날",
+        "vietnamese": " Ngày kỷ niệm chữ Hangul",
+        "audio": "tv-eps-b27-2025-7.mp3"
+    },
+    {
+        "korean": " 어버이날",
+        "vietnamese": " Ngày bố mẹ",
+        "audio": "tv-eps-b27-2025-8.mp3"
+    },
+    {
+        "korean": " 스승의 날",
+        "vietnamese": " Ngày giáo viên",
+        "audio": "tv-eps-b27-2025-9.mp3"
+    },
+    {
+        "korean": " 기념하다",
+        "vietnamese": " Kỷ niệm",
+        "audio": "tv-eps-b27-2025-10.mp3"
+    },
+    {
+        "korean": " 국기를 달다",
+        "vietnamese": " Treo quốc kỳ",
+        "audio": "tv-eps-b27-2025-11.mp3"
+    },
+    {
+        "korean": " 행사를 하다",
+        "vietnamese": " Tổ chức sự kiện",
+        "audio": "tv-eps-b27-2025-12.mp3"
+    },
+    {
+        "korean": " 꽃을 달다",
+        "vietnamese": " Cài hoa",
+        "audio": "tv-eps-b27-2025-13.mp3"
+    },
+    {
+        "korean": " 전하다",
+        "vietnamese": " Truyền đạt, truyền thụ",
+        "audio": "tv-eps-b27-2025-14.mp3"
+    },
+    {
+        "korean": " 마음을 전하다",
+        "vietnamese": " Bày tỏ tấm lòng",
+        "audio": "tv-eps-b27-2025-15.mp3"
+    },
+    {
+        "korean": " 선물을 주다",
+        "vietnamese": " Tặng quà (1)",
+        "audio": "tv-eps-b27-2025-16.mp3"
+    },
+    {
+        "korean": " 선물을 드리다",
+        "vietnamese": " Tặng quà (2)",
+        "audio": "tv-eps-b27-2025-17.mp3"
+    },
+    {
+        "korean": " 돌",
+        "vietnamese": " Thôi nôi",
+        "audio": "tv-eps-b27-2025-18.mp3"
+    },
+    {
+        "korean": " 환갑",
+        "vietnamese": " Mừng thọ 60 tuổi (1)",
+        "audio": "tv-eps-b27-2025-19.mp3"
+    },
+    {
+        "korean": " 회갑",
+        "vietnamese": " Mừng thọ 60 tuổi (2)",
+        "audio": "tv-eps-b27-2025-20.mp3"
+    },
+    {
+        "korean": " 칠순",
+        "vietnamese": " Mừng thọ 70 tuổi",
+        "audio": "tv-eps-b27-2025-21.mp3"
+    },
+    {
+        "korean": " 결혼식",
+        "vietnamese": " Lê kết hôn",
+        "audio": "tv-eps-b27-2025-22.mp3"
+    },
+    {
+        "korean": " 축의금",
+        "vietnamese": " Tiền mừng",
+        "audio": "tv-eps-b27-2025-23.mp3"
+    },
+    {
+        "korean": " 장례식",
+        "vietnamese": " Lễ tang",
+        "audio": "tv-eps-b27-2025-24.mp3"
+    },
+    {
+        "korean": " 조의금",
+        "vietnamese": " Tiền phúng viếng",
+        "audio": "tv-eps-b27-2025-25.mp3"
+    },
+    {
+        "korean": " 초대하다",
+        "vietnamese": " Mời",
+        "audio": "tv-eps-b27-2025-26.mp3"
+    },
+    {
+        "korean": " 초대를 받다",
+        "vietnamese": " Được mời",
+        "audio": "tv-eps-b27-2025-27.mp3"
+    },
+    {
+        "korean": " 참석하다",
+        "vietnamese": " Tham dự",
+        "audio": "tv-eps-b27-2025-28.mp3"
+    },
+    {
+        "korean": " 축하하다",
+        "vietnamese": " Chúc mừng",
+        "audio": "tv-eps-b27-2025-29.mp3"
+    },
+    {
+        "korean": " 동료",
+        "vietnamese": " Đồng nghiệp",
+        "audio": "tv-eps-b27-2025-30.mp3"
+    },
+    {
+        "korean": " 잔치",
+        "vietnamese": " Tiệc",
+        "audio": "tv-eps-b27-2025-31.mp3"
+    },
+    {
+        "korean": " 돌잔치",
+        "vietnamese": " Tiệc thôi nôi",
+        "audio": "tv-eps-b27-2025-32.mp3"
+    },
+    {
+        "korean": " 아기",
+        "vietnamese": " Em bé",
+        "audio": "tv-eps-b27-2025-33.mp3"
+    },
+    {
+        "korean": " 첫 번째",
+        "vietnamese": " Lần đầu tiên",
+        "audio": "tv-eps-b27-2025-34.mp3"
+    },
+    {
+        "korean": " 장난감",
+        "vietnamese": " Đồ chơi",
+        "audio": "tv-eps-b27-2025-35.mp3"
+    },
+    {
+        "korean": " 금반지",
+        "vietnamese": " Nhân vàng",
+        "audio": "tv-eps-b27-2025-36.mp3"
+    },
+    {
+        "korean": " 아직",
+        "vietnamese": " Vẫn, vẫn chưa",
+        "audio": "tv-eps-b27-2025-37.mp3"
+    },
+    {
+        "korean": " 집들이",
+        "vietnamese": " Tiệc tân gia",
+        "audio": "tv-eps-b27-2025-38.mp3"
+    },
+    {
+        "korean": " 마음",
+        "vietnamese": " Tấm lòng",
+        "audio": "tv-eps-b27-2025-39.mp3"
+    },
+    {
+        "korean": " 외국인노동자지원센터",
+        "vietnamese": " TT hỗ trợ người lao động nước ngoài",
+        "audio": "tv-eps-b27-2025-40.mp3"
+    },
+    {
+        "korean": " 예전",
+        "vietnamese": " Trước đây",
+        "audio": "tv-eps-b27-2025-41.mp3"
+    },
+    {
+        "korean": " 통역",
+        "vietnamese": " Thông dịch",
+        "audio": "tv-eps-b27-2025-42.mp3"
+    },
+    {
+        "korean": " 서비스",
+        "vietnamese": " Dịch vụ",
+        "audio": "tv-eps-b27-2025-43.mp3"
+    },
+    {
+        "korean": " 같이",
+        "vietnamese": " Cùng nhau",
+        "audio": "tv-eps-b27-2025-44.mp3"
+    },
+    {
+        "korean": " 미안하다",
+        "vietnamese": " Xin lỗi",
+        "audio": "tv-eps-b27-2025-45.mp3"
+    },
+    {
+        "korean": " 전하다",
+        "vietnamese": " Truyền đạt",
+        "audio": "tv-eps-b27-2025-46.mp3"
+    },
+    {
+        "korean": " 마음",
+        "vietnamese": " Tấm lòng",
+        "audio": "tv-eps-b27-2025-47.mp3"
+    },
+    {
+        "korean": " 꽃을 달다",
+        "vietnamese": " Đính, cài hoa",
+        "audio": "tv-eps-b27-2025-48.mp3"
+    },
+    {
+        "korean": " 따로",
+        "vietnamese": " Riêng",
+        "audio": "tv-eps-b27-2025-49.mp3"
+    },
+    {
+        "korean": " 입에 잘 맞아요",
+        "vietnamese": " Ăn hợp khấu vị, vừa miệng",
+        "audio": "tv-eps-b27-2025-50.mp3"
+    },
+    {
+        "korean": " 집안일",
+        "vietnamese": " Việc nhà",
+        "audio": "tv-eps-b27-2025-51.mp3"
+    },
+    {
+        "korean": " 여행지",
+        "vietnamese": " Địa điếm du lịch",
+        "audio": "tv-eps-b27-2025-52.mp3"
+    },
+    {
+        "korean": " 얼마 전에",
+        "vietnamese": " Cách đây không lâu, mấy hôm trước",
+        "audio": "tv-eps-b27-2025-53.mp3"
+    },
+    {
+        "korean": " 이제",
+        "vietnamese": " Bây giờ",
+        "audio": "tv-eps-b27-2025-54.mp3"
+    },
+    {
+        "korean": " 이사를 하다",
+        "vietnamese": " Chuyến nhà",
+        "audio": "tv-eps-b27-2025-55.mp3"
+    },
+    {
+        "korean": " 생각하다",
+        "vietnamese": " Suy nghĩ",
+        "audio": "tv-eps-b27-2025-56.mp3"
+    },
+    {
+        "korean": " 역사적",
+        "vietnamese": " Tính lịch sử",
+        "audio": "tv-eps-b27-2025-57.mp3"
+    },
+    {
+        "korean": " 뜻깊다",
+        "vietnamese": " Ý nghĩa sâu sắc",
+        "audio": "tv-eps-b27-2025-58.mp3"
+    },
+    {
+        "korean": " 경축하다",
+        "vietnamese": " Chúc mừng",
+        "audio": "tv-eps-b27-2025-59.mp3"
+    },
+    {
+        "korean": " 정하다",
+        "vietnamese": " Quyết định, chọn",
+        "audio": "tv-eps-b27-2025-60.mp3"
+    },
+    {
+        "korean": " 제헌절",
+        "vietnamese": " Ngày lập hiến pháp",
+        "audio": "tv-eps-b27-2025-61.mp3"
+    },
+    {
+        "korean": " 제외하다",
+        "vietnamese": " Ngoài",
+        "audio": "tv-eps-b27-2025-62.mp3"
+    },
+    {
+        "korean": " 법정공휴일",
+        "vietnamese": " Ngày nghỉ theo luật",
+        "audio": "tv-eps-b27-2025-63.mp3"
+    },
+    {
+        "korean": " 지정되다",
+        "vietnamese": " Chi định, được quy định",
+        "audio": "tv-eps-b27-2025-64.mp3"
+    },
+    {
+        "korean": " 각종",
+        "vietnamese": " Các loại",
+        "audio": "tv-eps-b27-2025-65.mp3"
+    },
+    {
+        "korean": " 열리다",
+        "vietnamese": " Được mở",
+        "audio": "tv-eps-b27-2025-66.mp3"
+    },
+    {
+        "korean": " 가정",
+        "vietnamese": " Gia đình",
+        "audio": "tv-eps-b27-2025-67.mp3"
+    },
+    {
+        "korean": " 국기",
+        "vietnamese": " Quốc kỳ",
+        "audio": "tv-eps-b27-2025-68.mp3"
+    },
+    {
+        "korean": " 게양하다",
+        "vietnamese": " Treo lên cao",
+        "audio": "tv-eps-b27-2025-69.mp3"
+    },
+    {
+        "korean": " 공휴일",
+        "vietnamese": " Ngày nghỉ công",
+        "audio": "tv-eps-b27-2025-70.mp3"
+    },
+    {
+        "korean": " 개인",
+        "vietnamese": " Cá nhân",
+        "audio": "tv-eps-b27-2025-71.mp3"
+    },
+    {
+        "korean": " 장례식장",
+        "vietnamese": " Nhà tang lễ",
+        "audio": "tv-eps-b27-2025-72.mp3"
+    },
+    {
+        "korean": " 당연히",
+        "vietnamese": " Đương nhiên",
+        "audio": "tv-eps-b27-2025-73.mp3"
+    },
+    {
+        "korean": " 용돈",
+        "vietnamese": " Tiền tiêu vặt",
+        "audio": "tv-eps-b27-2025-74.mp3"
+    },
+    {
+        "korean": " 그동안",
+        "vietnamese": " Thời gian qua",
+        "audio": "tv-eps-b27-2025-75.mp3"
+    }
+]
