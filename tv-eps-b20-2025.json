@@ -1,0 +1,327 @@
+[
+    {
+        "korean": " 스마트폰",
+        "vietnamese": " điện thoại thông minh",
+        "audio": "tv-eps-b20-2025-1.mp3"
+    },
+    {
+        "korean": " 인터넷",
+        "vietnamese": " Internet",
+        "audio": "tv-eps-b20-2025-2.mp3"
+    },
+    {
+        "korean": " 웹사이트",
+        "vietnamese": " Website",
+        "audio": "tv-eps-b20-2025-3.mp3"
+    },
+    {
+        "korean": " 홈페이지",
+        "vietnamese": " Trang chủ",
+        "audio": "tv-eps-b20-2025-4.mp3"
+    },
+    {
+        "korean": " 블로그",
+        "vietnamese": " Blog",
+        "audio": "tv-eps-b20-2025-5.mp3"
+    },
+    {
+        "korean": " 이메일",
+        "vietnamese": " Email",
+        "audio": "tv-eps-b20-2025-6.mp3"
+    },
+    {
+        "korean": " 검색",
+        "vietnamese": " Tìm kiếm",
+        "audio": "tv-eps-b20-2025-7.mp3"
+    },
+    {
+        "korean": " 채팅",
+        "vietnamese": " Trò chuyện",
+        "audio": "tv-eps-b20-2025-8.mp3"
+    },
+    {
+        "korean": " 화상 채팅",
+        "vietnamese": " Gọi video",
+        "audio": "tv-eps-b20-2025-9.mp3"
+    },
+    {
+        "korean": " 회원 가입",
+        "vietnamese": " Gia nhập hội viên",
+        "audio": "tv-eps-b20-2025-10.mp3"
+    },
+    {
+        "korean": " 아이디",
+        "vietnamese": " ID, tên đăng nhập",
+        "audio": "tv-eps-b20-2025-11.mp3"
+    },
+    {
+        "korean": " 비밀번호",
+        "vietnamese": " Mật khẩu",
+        "audio": "tv-eps-b20-2025-12.mp3"
+    },
+    {
+        "korean": " 로그인",
+        "vietnamese": " Đăng nhập",
+        "audio": "tv-eps-b20-2025-13.mp3"
+    },
+    {
+        "korean": " 로그아웃",
+        "vietnamese": " Đăng xuất",
+        "audio": "tv-eps-b20-2025-14.mp3"
+    },
+    {
+        "korean": " 글",
+        "vietnamese": " Bài viết",
+        "audio": "tv-eps-b20-2025-15.mp3"
+    },
+    {
+        "korean": " 쓰다",
+        "vietnamese": " Viết",
+        "audio": "tv-eps-b20-2025-16.mp3"
+    },
+    {
+        "korean": " 부치다",
+        "vietnamese": " Gửi (1)",
+        "audio": "tv-eps-b20-2025-17.mp3"
+    },
+    {
+        "korean": " 보내다",
+        "vietnamese": " Gửi (2)",
+        "audio": "tv-eps-b20-2025-18.mp3"
+    },
+    {
+        "korean": " 인터넷 카폐",
+        "vietnamese": " Cà phê Internet",
+        "audio": "tv-eps-b20-2025-19.mp3"
+    },
+    {
+        "korean": " 스마트폰",
+        "vietnamese": " Điện thoại thông minh",
+        "audio": "tv-eps-b20-2025-20.mp3"
+    },
+    {
+        "korean": " 앱",
+        "vietnamese": " app (ứng dung)",
+        "audio": "tv-eps-b20-2025-21.mp3"
+    },
+    {
+        "korean": " 애플리케이션",
+        "vietnamese": " Ứng dụng",
+        "audio": "tv-eps-b20-2025-22.mp3"
+    },
+    {
+        "korean": " 에스엔에스",
+        "vietnamese": " Mạng xã hội",
+        "audio": "tv-eps-b20-2025-23.mp3"
+    },
+    {
+        "korean": " 모바일 메신저",
+        "vietnamese": " Tin nhắn di động",
+        "audio": "tv-eps-b20-2025-24.mp3"
+    },
+    {
+        "korean": " 이모티콘",
+        "vietnamese": " Biểu tượng cảm xúc",
+        "audio": "tv-eps-b20-2025-25.mp3"
+    },
+    {
+        "korean": " 와이파이",
+        "vietnamese": " Wifi",
+        "audio": "tv-eps-b20-2025-26.mp3"
+    },
+    {
+        "korean": " 메시지를 보내다",
+        "vietnamese": " Gửi tin nhắn",
+        "audio": "tv-eps-b20-2025-27.mp3"
+    },
+    {
+        "korean": " 메시지를 확인하다",
+        "vietnamese": " Kiếm tra tin nhắn",
+        "audio": "tv-eps-b20-2025-28.mp3"
+    },
+    {
+        "korean": " 댓글을 달다",
+        "vietnamese": " Để lại bình luận",
+        "audio": "tv-eps-b20-2025-29.mp3"
+    },
+    {
+        "korean": " 올리다",
+        "vietnamese": " Tải lên (1)",
+        "audio": "tv-eps-b20-2025-30.mp3"
+    },
+    {
+        "korean": " 업로드하다",
+        "vietnamese": " Tải lên (2)",
+        "audio": "tv-eps-b20-2025-31.mp3"
+    },
+    {
+        "korean": " 내려받다",
+        "vietnamese": " Tải xuống (1)",
+        "audio": "tv-eps-b20-2025-32.mp3"
+    },
+    {
+        "korean": " 다운로드하다",
+        "vietnamese": " Tải xuống (2)",
+        "audio": "tv-eps-b20-2025-33.mp3"
+    },
+    {
+        "korean": " 저장하다",
+        "vietnamese": " Lưu",
+        "audio": "tv-eps-b20-2025-34.mp3"
+    },
+    {
+        "korean": " 맛집",
+        "vietnamese": " Quán ăn ngon",
+        "audio": "tv-eps-b20-2025-35.mp3"
+    },
+    {
+        "korean": " 가르치다",
+        "vietnamese": " Chỉ, dạy",
+        "audio": "tv-eps-b20-2025-36.mp3"
+    },
+    {
+        "korean": " 이야기하다",
+        "vietnamese": " Nói chuyện, trò chuyện",
+        "audio": "tv-eps-b20-2025-37.mp3"
+    },
+    {
+        "korean": " 맛집",
+        "vietnamese": " Quán ăn ngon",
+        "audio": "tv-eps-b20-2025-38.mp3"
+    },
+    {
+        "korean": " 가르치다",
+        "vietnamese": " Chỉ, dạy",
+        "audio": "tv-eps-b20-2025-39.mp3"
+    },
+    {
+        "korean": " 그림을 그리다",
+        "vietnamese": " Vẽ tranh",
+        "audio": "tv-eps-b20-2025-40.mp3"
+    },
+    {
+        "korean": " 생활",
+        "vietnamese": " Cuộc sống, sinh hoạt",
+        "audio": "tv-eps-b20-2025-41.mp3"
+    },
+    {
+        "korean": " 소개",
+        "vietnamese": " Giới thiệu",
+        "audio": "tv-eps-b20-2025-42.mp3"
+    },
+    {
+        "korean": " 인터넷 검색을 하다",
+        "vietnamese": " Tìm kiểm Internet",
+        "audio": "tv-eps-b20-2025-43.mp3"
+    },
+    {
+        "korean": " 사진을 올리다",
+        "vietnamese": " Đăng ảnh",
+        "audio": "tv-eps-b20-2025-44.mp3"
+    },
+    {
+        "korean": " 집들이",
+        "vietnamese": " Tiệc tân gia",
+        "audio": "tv-eps-b20-2025-45.mp3"
+    },
+    {
+        "korean": " 보증금",
+        "vietnamese": " Tiền đặt cọc",
+        "audio": "tv-eps-b20-2025-46.mp3"
+    },
+    {
+        "korean": " 배달을 시키다",
+        "vietnamese": " Yêu cầu giao hàng",
+        "audio": "tv-eps-b20-2025-47.mp3"
+    },
+    {
+        "korean": " 이용하다",
+        "vietnamese": " Sừ dụng",
+        "audio": "tv-eps-b20-2025-48.mp3"
+    },
+    {
+        "korean": " 사용자",
+        "vietnamese": " Người sử dụng",
+        "audio": "tv-eps-b20-2025-49.mp3"
+    },
+    {
+        "korean": " 평점",
+        "vietnamese": " Đánh giá",
+        "audio": "tv-eps-b20-2025-50.mp3"
+    },
+    {
+        "korean": " 확인하다",
+        "vietnamese": " Kiếm tra, xác nhận",
+        "audio": "tv-eps-b20-2025-51.mp3"
+    },
+    {
+        "korean": " 현금",
+        "vietnamese": " Tiền mặt",
+        "audio": "tv-eps-b20-2025-52.mp3"
+    },
+    {
+        "korean": " 외에도",
+        "vietnamese": " Ngoài ra, bên cạnh đó",
+        "audio": "tv-eps-b20-2025-53.mp3"
+    },
+    {
+        "korean": " 결제",
+        "vietnamese": " Thanh toán",
+        "audio": "tv-eps-b20-2025-54.mp3"
+    },
+    {
+        "korean": " 수단",
+        "vietnamese": " Cách thức",
+        "audio": "tv-eps-b20-2025-55.mp3"
+    },
+    {
+        "korean": " 편리하다",
+        "vietnamese": " Tiện lợi",
+        "audio": "tv-eps-b20-2025-56.mp3"
+    },
+    {
+        "korean": " 할인하다",
+        "vietnamese": " Giảm giá, hạ giá",
+        "audio": "tv-eps-b20-2025-57.mp3"
+    },
+    {
+        "korean": " 쿠폰",
+        "vietnamese": " Phiếu giảm giá",
+        "audio": "tv-eps-b20-2025-58.mp3"
+    },
+    {
+        "korean": " 인기가 많다",
+        "vietnamese": " Được ưa thích",
+        "audio": "tv-eps-b20-2025-59.mp3"
+    },
+    {
+        "korean": " 물어보다",
+        "vietnamese": " Hỏi",
+        "audio": "tv-eps-b20-2025-60.mp3"
+    },
+    {
+        "korean": " 신청하다",
+        "vietnamese": " Đăng ký",
+        "audio": "tv-eps-b20-2025-61.mp3"
+    },
+    {
+        "korean": " 취소하다",
+        "vietnamese": " Hủy",
+        "audio": "tv-eps-b20-2025-62.mp3"
+    },
+    {
+        "korean": " 알려주다",
+        "vietnamese": " Cho biết",
+        "audio": "tv-eps-b20-2025-63.mp3"
+    },
+    {
+        "korean": " 오티티",
+        "vietnamese": " Các dịch vụ cung cấp nội dung giải trí",
+        "audio": "tv-eps-b20-2025-64.mp3"
+    },
+    {
+        "korean": " 마지막으로",
+        "vietnamese": " Cuối cùng",
+        "audio": "tv-eps-b20-2025-65.mp3"
+    }
+]
