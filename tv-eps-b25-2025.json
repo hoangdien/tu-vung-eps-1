@@ -1,0 +1,402 @@
+[
+    {
+        "korean": " 한국어 교육",
+        "vietnamese": " Đào tạo tiếng Hàn",
+        "audio": "tv-eps-b25-2025-1.mp3"
+    },
+    {
+        "korean": " 컴퓨터 교육",
+        "vietnamese": " Đào tạo máy tính",
+        "audio": "tv-eps-b25-2025-2.mp3"
+    },
+    {
+        "korean": " 법률 교육",
+        "vietnamese": " Đào tạo về pháp luật",
+        "audio": "tv-eps-b25-2025-3.mp3"
+    },
+    {
+        "korean": " 안전 교육",
+        "vietnamese": " Đào tạo an toàn",
+        "audio": "tv-eps-b25-2025-4.mp3"
+    },
+    {
+        "korean": " 교육 기간",
+        "vietnamese": " Thời gian đào tạo",
+        "audio": "tv-eps-b25-2025-5.mp3"
+    },
+    {
+        "korean": " 교육 내용",
+        "vietnamese": " Nội dung đào tạo",
+        "audio": "tv-eps-b25-2025-6.mp3"
+    },
+    {
+        "korean": " 모집 기간",
+        "vietnamese": " Thời gian tuyn dụng",
+        "audio": "tv-eps-b25-2025-7.mp3"
+    },
+    {
+        "korean": " 신청 방법",
+        "vietnamese": " Phương pháp đăng ký",
+        "audio": "tv-eps-b25-2025-8.mp3"
+    },
+    {
+        "korean": " 초급",
+        "vietnamese": " Sơ cấp",
+        "audio": "tv-eps-b25-2025-9.mp3"
+    },
+    {
+        "korean": " 중급",
+        "vietnamese": " trung cấp",
+        "audio": "tv-eps-b25-2025-10.mp3"
+    },
+    {
+        "korean": " 고급",
+        "vietnamese": " cao cấp",
+        "audio": "tv-eps-b25-2025-11.mp3"
+    },
+    {
+        "korean": " 준비반",
+        "vietnamese": " Lớp ôn thi",
+        "audio": "tv-eps-b25-2025-12.mp3"
+    },
+    {
+        "korean": " 방문 접수",
+        "vietnamese": " Tiếp nhận trực tiếp",
+        "audio": "tv-eps-b25-2025-13.mp3"
+    },
+    {
+        "korean": " 전화 접수",
+        "vietnamese": " Tiếp nhận qua điện thoại",
+        "audio": "tv-eps-b25-2025-14.mp3"
+    },
+    {
+        "korean": " 문의",
+        "vietnamese": " Tư vấn (1)",
+        "audio": "tv-eps-b25-2025-15.mp3"
+    },
+    {
+        "korean": " 상담",
+        "vietnamese": " Tư vấn (2)",
+        "audio": "tv-eps-b25-2025-16.mp3"
+    },
+    {
+        "korean": " 외국인 근로자 지원 센터",
+        "vietnamese": " TT hỗ trợ lao động người nước ngoài",
+        "audio": "tv-eps-b25-2025-17.mp3"
+    },
+    {
+        "korean": " 맞다",
+        "vietnamese": " Đúng, phù hợp",
+        "audio": "tv-eps-b25-2025-18.mp3"
+    },
+    {
+        "korean": " 여러",
+        "vietnamese": " Nhiều",
+        "audio": "tv-eps-b25-2025-19.mp3"
+    },
+    {
+        "korean": " 모두",
+        "vietnamese": " Tất cả",
+        "audio": "tv-eps-b25-2025-20.mp3"
+    },
+    {
+        "korean": " 수업",
+        "vietnamese": " Tiết học, buối học",
+        "audio": "tv-eps-b25-2025-21.mp3"
+    },
+    {
+        "korean": " 신청하다",
+        "vietnamese": " Đăng ký (1)",
+        "audio": "tv-eps-b25-2025-22.mp3"
+    },
+    {
+        "korean": " 등록하다",
+        "vietnamese": " Đăng ký (2)",
+        "audio": "tv-eps-b25-2025-23.mp3"
+    },
+    {
+        "korean": " 어떻게",
+        "vietnamese": " Như thế nào",
+        "audio": "tv-eps-b25-2025-24.mp3"
+    },
+    {
+        "korean": " 수업을 듣다",
+        "vietnamese": " Nghe giảng",
+        "audio": "tv-eps-b25-2025-25.mp3"
+    },
+    {
+        "korean": " 상담을 받다",
+        "vietnamese": " Được tư vấn",
+        "audio": "tv-eps-b25-2025-26.mp3"
+    },
+    {
+        "korean": " 통역 서비스를 이용하다",
+        "vietnamese": " Sử dụng dịch vụ thông dịch",
+        "audio": "tv-eps-b25-2025-27.mp3"
+    },
+    {
+        "korean": " 행사에 참여하다",
+        "vietnamese": " Tham gia sự kiện",
+        "audio": "tv-eps-b25-2025-28.mp3"
+    },
+    {
+        "korean": " 무료 진료를 받다",
+        "vietnamese": " Được điều trị miễn phí",
+        "audio": "tv-eps-b25-2025-29.mp3"
+    },
+    {
+        "korean": " 자원 봉사를 하다",
+        "vietnamese": " Làm hoạt động tình nguyện",
+        "audio": "tv-eps-b25-2025-30.mp3"
+    },
+    {
+        "korean": " 참가 대상",
+        "vietnamese": " Đối tượng tham gia",
+        "audio": "tv-eps-b25-2025-31.mp3"
+    },
+    {
+        "korean": " 접수 기간",
+        "vietnamese": " Thời gian tiếp nhận",
+        "audio": "tv-eps-b25-2025-32.mp3"
+    },
+    {
+        "korean": " 접수 방법",
+        "vietnamese": " Cách thức tiếp nhận",
+        "audio": "tv-eps-b25-2025-33.mp3"
+    },
+    {
+        "korean": " 시상 내용",
+        "vietnamese": " Nội dung giải thưởng",
+        "audio": "tv-eps-b25-2025-34.mp3"
+    },
+    {
+        "korean": " 인터넷 접수",
+        "vietnamese": " Tiếp nhận qua internet",
+        "audio": "tv-eps-b25-2025-35.mp3"
+    },
+    {
+        "korean": " 참가 분야",
+        "vietnamese": " Lĩnh vực tham gia",
+        "audio": "tv-eps-b25-2025-36.mp3"
+    },
+    {
+        "korean": " 문의 안내",
+        "vietnamese": " Hướng hần tư vấn",
+        "audio": "tv-eps-b25-2025-37.mp3"
+    },
+    {
+        "korean": " 떨리다",
+        "vietnamese": " Run sợ",
+        "audio": "tv-eps-b25-2025-38.mp3"
+    },
+    {
+        "korean": " 걱정하다",
+        "vietnamese": " Lo lắng",
+        "audio": "tv-eps-b25-2025-39.mp3"
+    },
+    {
+        "korean": " 갖다주다",
+        "vietnamese": " Mang đến, đưa đến",
+        "audio": "tv-eps-b25-2025-40.mp3"
+    },
+    {
+        "korean": " 길",
+        "vietnamese": " Đường",
+        "audio": "tv-eps-b25-2025-41.mp3"
+    },
+    {
+        "korean": " 복잡하다",
+        "vietnamese": " Phức tạp",
+        "audio": "tv-eps-b25-2025-42.mp3"
+    },
+    {
+        "korean": " 약속이 있다",
+        "vietnamese": " Có hẹn",
+        "audio": "tv-eps-b25-2025-43.mp3"
+    },
+    {
+        "korean": " 흔자",
+        "vietnamese": " Một minh",
+        "audio": "tv-eps-b25-2025-44.mp3"
+    },
+    {
+        "korean": " 콘서트에 가다",
+        "vietnamese": " Đi đến buổi hòa nhạc",
+        "audio": "tv-eps-b25-2025-45.mp3"
+    },
+    {
+        "korean": " 중급반",
+        "vietnamese": " Lớp trung cấp",
+        "audio": "tv-eps-b25-2025-46.mp3"
+    },
+    {
+        "korean": " 토픽반",
+        "vietnamese": " Lớp học topik",
+        "audio": "tv-eps-b25-2025-47.mp3"
+    },
+    {
+        "korean": " 신분증을 주다",
+        "vietnamese": " Đưa chứng minh thư",
+        "audio": "tv-eps-b25-2025-48.mp3"
+    },
+    {
+        "korean": " 추석",
+        "vietnamese": " Trung thu (1)",
+        "audio": "tv-eps-b25-2025-49.mp3"
+    },
+    {
+        "korean": " 한가위",
+        "vietnamese": " Trung thu (2)",
+        "audio": "tv-eps-b25-2025-50.mp3"
+    },
+    {
+        "korean": " 노래자랑",
+        "vietnamese": " Cuộc thi hát",
+        "audio": "tv-eps-b25-2025-51.mp3"
+    },
+    {
+        "korean": " 대회",
+        "vietnamese": " Đại hội",
+        "audio": "tv-eps-b25-2025-52.mp3"
+    },
+    {
+        "korean": " 나가다",
+        "vietnamese": " Đi ra",
+        "audio": "tv-eps-b25-2025-53.mp3"
+    },
+    {
+        "korean": " 연습하다",
+        "vietnamese": " Luyện tập",
+        "audio": "tv-eps-b25-2025-54.mp3"
+    },
+    {
+        "korean": " 괜찮다",
+        "vietnamese": " Ốn, không sao",
+        "audio": "tv-eps-b25-2025-55.mp3"
+    },
+    {
+        "korean": " 알다",
+        "vietnamese": " Biết",
+        "audio": "tv-eps-b25-2025-56.mp3"
+    },
+    {
+        "korean": " 외국인등록번호",
+        "vietnamese": " Số đăng ký người ngước ngoài",
+        "audio": "tv-eps-b25-2025-57.mp3"
+    },
+    {
+        "korean": " 가져오다",
+        "vietnamese": " Mang đến, mang theo",
+        "audio": "tv-eps-b25-2025-58.mp3"
+    },
+    {
+        "korean": " 실례하다",
+        "vietnamese": " Thất lễ, xin lỗi",
+        "audio": "tv-eps-b25-2025-59.mp3"
+    },
+    {
+        "korean": " 취소하다",
+        "vietnamese": " Hủy",
+        "audio": "tv-eps-b25-2025-60.mp3"
+    },
+    {
+        "korean": " 춤을 주다",
+        "vietnamese": " Nhảy múa",
+        "audio": "tv-eps-b25-2025-61.mp3"
+    },
+    {
+        "korean": " 노래를 하다",
+        "vietnamese": " Hát",
+        "audio": "tv-eps-b25-2025-62.mp3"
+    },
+    {
+        "korean": " 시작하다",
+        "vietnamese": " Bắt đầu",
+        "audio": "tv-eps-b25-2025-63.mp3"
+    },
+    {
+        "korean": " 구경하다",
+        "vietnamese": " Xem, ngắm, nhìn",
+        "audio": "tv-eps-b25-2025-64.mp3"
+    },
+    {
+        "korean": " 방문하다",
+        "vietnamese": " Ghé thăm",
+        "audio": "tv-eps-b25-2025-65.mp3"
+    },
+    {
+        "korean": " 훈련을 받다",
+        "vietnamese": " Được huấn luyện",
+        "audio": "tv-eps-b25-2025-66.mp3"
+    },
+    {
+        "korean": " 센터",
+        "vietnamese": " Trung tâm (center)",
+        "audio": "tv-eps-b25-2025-67.mp3"
+    },
+    {
+        "korean": " 수업료",
+        "vietnamese": " Tiền học, học phí",
+        "audio": "tv-eps-b25-2025-68.mp3"
+    },
+    {
+        "korean": " 축제",
+        "vietnamese": " Lẻ hội",
+        "audio": "tv-eps-b25-2025-69.mp3"
+    },
+    {
+        "korean": " 이들",
+        "vietnamese": " 2 ngày",
+        "audio": "tv-eps-b25-2025-70.mp3"
+    },
+    {
+        "korean": " 열다",
+        "vietnamese": " Mữ",
+        "audio": "tv-eps-b25-2025-71.mp3"
+    },
+    {
+        "korean": " 축구하다",
+        "vietnamese": " Đá bóng",
+        "audio": "tv-eps-b25-2025-72.mp3"
+    },
+    {
+        "korean": " 끝나다",
+        "vietnamese": " Kết thúc",
+        "audio": "tv-eps-b25-2025-73.mp3"
+    },
+    {
+        "korean": " 시상식",
+        "vietnamese": " Lê trao giải",
+        "audio": "tv-eps-b25-2025-74.mp3"
+    },
+    {
+        "korean": " 축하 공연",
+        "vietnamese": " Tiết mục biểu diên chúc mừng",
+        "audio": "tv-eps-b25-2025-75.mp3"
+    },
+    {
+        "korean": " 한국 생활",
+        "vietnamese": " Sinh hoạt ở Hàn Quốc",
+        "audio": "tv-eps-b25-2025-76.mp3"
+    },
+    {
+        "korean": " 사업장",
+        "vietnamese": " Nơi kinh doanh",
+        "audio": "tv-eps-b25-2025-77.mp3"
+    },
+    {
+        "korean": " 제공하다",
+        "vietnamese": " Cung cấp",
+        "audio": "tv-eps-b25-2025-78.mp3"
+    },
+    {
+        "korean": " 농촌",
+        "vietnamese": " Thông thôn",
+        "audio": "tv-eps-b25-2025-79.mp3"
+    },
+    {
+        "korean": " 중소 도시",
+        "vietnamese": " Thành phố vữa và nhỏ",
+        "audio": "tv-eps-b25-2025-80.mp3"
+    }
+]
